@@ -70,5 +70,6 @@ if __name__ == "__main__":
 
     try:
         run(app_config)
+    # TODO: improve exception handling
     except:
         pass
